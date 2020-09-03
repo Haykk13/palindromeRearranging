@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromeRearranging", "palindromeRearranging\palindromeRearranging.csproj", "{9BC7B1AB-EC95-43D5-8B11-5666CC635057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC7B1AB-EC95-43D5-8B11-5666CC635057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC7B1AB-EC95-43D5-8B11-5666CC635057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC7B1AB-EC95-43D5-8B11-5666CC635057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC7B1AB-EC95-43D5-8B11-5666CC635057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F777F1-2BE2-49C8-ADA1-DCF5FF6A12A7}
+	EndGlobalSection
+EndGlobal
